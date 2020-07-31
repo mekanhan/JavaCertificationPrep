@@ -12,8 +12,8 @@ public class q18 {
         int i = 97;
        
 
-        for (int a=0; a<chs.length; a++){
-            for (int b=0; b<chs.length; b++){
+        for (int a=0; a<chs.length; a++){   //outside length = 5
+            for (int b=0; b<2 ; b++){   //inner length = 5
                 chs[a][b] = "" + i;
                 i++;
             }
