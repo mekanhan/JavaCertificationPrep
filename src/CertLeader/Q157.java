@@ -1,4 +1,4 @@
 package CertLeader;
 
-public class Q157 {
+abstract class Q157 {
 }
